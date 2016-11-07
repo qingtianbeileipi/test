@@ -2,12 +2,7 @@ this is a test file
 
 this is a modified
 
-ta branch test
-
-test
-
-dddd
-
+this is a branch test
 
 let we test reset
 
@@ -18,4 +13,6 @@ let me add one line
 checkout reset 
 
 test two commit 
+
+this all
 
