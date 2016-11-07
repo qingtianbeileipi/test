@@ -14,3 +14,5 @@ let we test reset
 test stage and workarea
 
 let me add one line 
+
+checkout reset 
