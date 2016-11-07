@@ -16,3 +16,6 @@ test stage and workarea
 let me add one line 
 
 checkout reset 
+
+test two commit 
+
